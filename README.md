@@ -1,2 +1,96 @@
-# devops-weekend-2026-02
+# DevOps Weekend 2026: GitHub, Azure DevOps, Testes, IA...
 Fotos e informações gerais sobre o evento **DevOps Weekend**, realizado na cidade de São Paulo-SP.
+
+Data: **28/02/2026 (sábado)**
+
+Organizadores:
+- **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
+- **Milton Camara Gomes (Microsoft MVP, MTAC)**
+- **Vinicius Moura (Microsoft MVP)**
+- **Atila Olivi (SENAI)**
+- **Carlos Machel (AzureBrasil.cloud)**
+
+Número de participantes: **42 pessoas**
+
+---
+
+Apresentações/talks que aconteceram durante o evento:
+
+_# Criando Workflow com Multi-Agentes com Microsoft Agent Framework_
+
+Palestrante: **Carlos Machel (AzureBrasil.cloud)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
+
+_# Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers_
+
+Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+
+_# Da Documentação ao Copilot: Transformando Conhecimento Interno em Respostas Inteligentes_
+
+Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, .NET, C#, Microsoft Azure, Microsoft Copilot 365...**
+
+_# Painel: Desenvolvimento de Aplicações x Uso de IA -> Prós e Contras_
+
+Participantes:
+- **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
+- **Milton Camara Gomes (Microsoft MVP, MTAC)**
+- **Angelo Belchior (Microsoft MVP, APIsec U Ambassador, MTAC)**
+- **Carlos Machel (AzureBrasil.cloud)**
+- **Lucas Massena (Cloud Solutions Architect)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, GitHub Copilot, Engenharia de Software, Arquitetura de Software, Microsoft Foundry, Boas Práticas de Desenvolvimento...**
+
+---
+
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
+Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure na Prática**](https://www.youtube.com/azurenapratica) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
+
+Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/devops-weekend-2026-github-azure-devops-testes-ia-gratuito-e-presencial-sao-paulo-sp/3312598)
+
+Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000**
+
+---
+
+![Banner do evento](img/banner.png)
+
+![Carlos palestrando 1](img/carlos-11.jpeg)
+
+![Carlos palestrando 2](img/carlos-33.jpeg)
+
+![Carlos palestrando 3](img/carlos-36.jpeg)
+
+![Renato palestrando 1](img/renato-14.jpeg)
+
+![Renato palestrando 2](img/renato-39.jpeg)
+
+![Renato palestrando 3](img/renato-104.jpeg)
+
+![Milton palestrando 1](img/milton-31.jpeg)
+
+![Milton palestrando 2](img/milton-05.jpeg)
+
+![Milton palestrando 3](img/milton-03.jpeg)
+
+![Painel 1](img/painel-01.jpeg)
+
+![Painel 2](img/painel-05.jpeg)
+
+![Painel 3](img/painel-07.jpeg)
+
+![Público 1](img/publico-01.jpeg)
+
+![Público 2](img/publico-03.jpeg)
+
+![Geral 1](img/geral-05.jpg)
+
+![Geral 2](img/geral-01.jpeg)
+
+![Geral 3](img/geral-02.jpeg)
+
+![Geral 4](img/geral-06.jpeg)
