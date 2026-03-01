@@ -14,34 +14,41 @@ Número de participantes: **42 pessoas**
 
 ---
 
+xxxxxxxxxxxxxxxxxxxxxxxx
+Apresentações previstas:
+* Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions - Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)
+* Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana - Milton Camara Gomes (Microsoft MVP, MTAC)
+* Painel: DevOps no mundo real -> automações, nuvem, ferramentas, boas práticas, o uso de IA - Renato Groffe, Milton Camara Gomes, Vinicius Moura, Rodrigo Jordão, Carlos Machel
+xxxxxxxxxxxxxxxxxxxxxxxx
+
 Apresentações/talks que aconteceram durante o evento:
 
-_# Criando Workflow com Multi-Agentes com Microsoft Agent Framework_
+_# GitHub Agentic Workflows_
 
-Palestrante: **Carlos Machel (AzureBrasil.cloud)**
+Palestrante: **Vinicius Moura (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, AI Agents, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
+Tecnologias e tópicos abordados: **GitHub, GitHub Copilot, Inteligência Artificial, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Docker, Containers, Microsoft Azure, Azure Container Apps...**
 
-_# Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers_
+_# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions_
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
 
-_# Da Documentação ao Copilot: Transformando Conhecimento Interno em Respostas Inteligentes_
+_# Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana_
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, .NET, C#, Microsoft Azure, Microsoft Copilot 365...**
 
-_# Painel: Desenvolvimento de Aplicações x Uso de IA -> Prós e Contras_
+_# Painel: DevOps no mundo real -> automações, nuvem, ferramentas, boas práticas, o uso de IA..._
 
 Participantes:
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
-- **Angelo Belchior (Microsoft MVP, APIsec U Ambassador, MTAC)**
+- **Vinicius Moura (Microsoft MVP)**
 - **Carlos Machel (AzureBrasil.cloud)**
-- **Lucas Massena (Cloud Solutions Architect)**
+- **Rodrigo Jordão (Senior DevOps Engineer)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, GitHub Copilot, Engenharia de Software, Arquitetura de Software, Microsoft Foundry, Boas Práticas de Desenvolvimento...**
 
