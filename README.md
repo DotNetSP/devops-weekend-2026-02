@@ -26,7 +26,7 @@ _# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHu
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
-Tecnologias e tópicos abordados: **k6, xk6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, xxxxxxxxxxxxxxxxxxxxxxxxx Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+Tecnologias e tópicos abordados: **Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
 
 _# Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana_
 
