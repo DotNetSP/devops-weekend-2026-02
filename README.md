@@ -20,7 +20,7 @@ _# GitHub Agentic Workflows_
 
 Palestrante: **Vinicius Moura (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **GitHub, GitHub Copilot, Inteligência Artificial, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Docker, Containers, Microsoft Azure, Azure Container Apps...**
+Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
 
 _# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions_
 
