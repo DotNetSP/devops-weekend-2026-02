@@ -32,7 +32,7 @@ _# Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **Grafana, Azure SQL, Microsoft Azure, Grafana Loki, Inteligência Artificial, LLMs, MCP, AI Agents, .NET, C#, Microsoft Azure, Microsoft Copilot 365...**
+Tecnologias e tópicos abordados: **Grafana, Azure SQL, Microsoft Azure, Grafana Loki, Prometheus, Azure Monitor, Application Insights...**
 
 _# Painel: DevOps no mundo real -> automações, nuvem, ferramentas, boas práticas, o uso de IA..._
 
