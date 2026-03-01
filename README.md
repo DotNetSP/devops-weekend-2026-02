@@ -43,7 +43,7 @@ Participantes:
 - **Carlos Machel (AzureBrasil.cloud)**
 - **Rodrigo Jordão (Senior DevOps Engineer)**
 
-Tecnologias e tópicos abordados: **DevOps, DevSecOps, Microsoft Azure, GitHub, Azure DevOps, Docker, Kubernetes, Linux, Grafana, Grafana Loki, Grafana Tempo, Grafana Learn, Prometheus, Certifiações xxxxxxxxxxxxxxxxxxxxxxxxxxx Inteligência Artificial, LLMs, MCP, AI Agents, GitHub Copilot, Engenharia de Software, Arquitetura de Software, Microsoft Foundry, Boas Práticas de Desenvolvimento...**
+Tecnologias e tópicos abordados: **DevOps, DevSecOps, Microsoft Azure, GitHub, Azure DevOps, Docker, Kubernetes, Linux, Grafana, Grafana Loki, Grafana Tempo, Grafana Learn, Prometheus, Certificações Azure (AZ-400, AZ-204, AZ-104, AZ-305), Certifições GitHub, Certificações e Treinamentos Linux Foundation...**
 
 ---
 
