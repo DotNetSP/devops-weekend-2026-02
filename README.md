@@ -43,7 +43,7 @@ Participantes:
 - **Carlos Machel (AzureBrasil.cloud)**
 - **Rodrigo Jordão (Senior DevOps Engineer)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, GitHub Copilot, Engenharia de Software, Arquitetura de Software, Microsoft Foundry, Boas Práticas de Desenvolvimento...**
+Tecnologias e tópicos abordados: **DevOps, DevSecOps, Linux, Grafana, Grafana Loki, Grafana Tempo, Prometheus, xxxxxxxxxxxxxxxxxxxxxxxxxxx Inteligência Artificial, LLMs, MCP, AI Agents, GitHub Copilot, Engenharia de Software, Arquitetura de Software, Microsoft Foundry, Boas Práticas de Desenvolvimento...**
 
 ---
 
