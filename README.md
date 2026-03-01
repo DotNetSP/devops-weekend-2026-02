@@ -14,13 +14,6 @@ Número de participantes: **42 pessoas**
 
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxx
-Apresentações previstas:
-* Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions - Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)
-* Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana - Milton Camara Gomes (Microsoft MVP, MTAC)
-* Painel: DevOps no mundo real -> automações, nuvem, ferramentas, boas práticas, o uso de IA - Renato Groffe, Milton Camara Gomes, Vinicius Moura, Rodrigo Jordão, Carlos Machel
-xxxxxxxxxxxxxxxxxxxxxxxx
-
 Apresentações/talks que aconteceram durante o evento:
 
 _# GitHub Agentic Workflows_
