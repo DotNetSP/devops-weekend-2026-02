@@ -59,7 +59,6 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Banner do evento](img/banner-devops-wknd-2026-02-sp.png)
 
-
 ![Renato palestrando 1](img/renato-14.jpeg)
 
 ![Renato palestrando 2](img/renato-17.jpeg)
@@ -76,15 +75,15 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Vinicius palestrando 4](img/vinicius-36.jpeg)
 
+![Milton palestrando 1](img/milton-05.jpeg)
+
+![Milton palestrando 2](img/milton-12.jpeg)
+
+![Milton palestrando 3](img/milton-19.jpeg)
+
+![Milton palestrando 3](img/milton-02.jpeg)
 
 
-
-
-![Milton palestrando 1](img/milton-31.jpeg)
-
-![Milton palestrando 2](img/milton-05.jpeg)
-
-![Milton palestrando 3](img/milton-03.jpeg)
 
 ![Painel 1](img/painel-01.jpeg)
 
